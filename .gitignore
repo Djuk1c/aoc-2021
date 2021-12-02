@@ -1,8 +1,6 @@
-# Unignore all with extensions
-!*.*
+*
 
-# Unignore all dirs
 !*/
-
-!*.c
+!*.cpp
+!*.input
 !makefile
