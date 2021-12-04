@@ -14,7 +14,7 @@ int main()
 	string a;
 
 	// Load Numbers;
-	ifstream nms("nums");
+	ifstream nms("nums.input");
 	while(getline(nms, a, ','))
 	{
 		numbers.push_back(stoi(a));
@@ -22,7 +22,7 @@ int main()
 	nms.close();
 
 	// Load Boards
-	ifstream brds("boards");
+	ifstream brds("boards.input");
 	int n;
 	while (brds >> n)
 	{
@@ -34,7 +34,7 @@ int main()
 	
 	map<int, int> wonBoards;
 	vector<int> pickedNumbers;
-	for (int i = 0; i < numbers.size(); i++)		// numbers.size()
+	for (int i = 0; i < numbers.size(); i++)
 	{
 		pickedNumbers.push_back(numbers[i]);
 		for (int board = 0; board < boards.size(); board+=25)
@@ -67,7 +67,6 @@ int main()
 				if (rCount == 5 || cCount == 5)
 				{
 					// Unmarked numbers
-					//cout << "Board " << board/25+1 << endl;
 					int sum = 0;
 					for (int v = board; v < board+25; v++)
 					{
