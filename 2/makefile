@@ -1,2 +1,2 @@
 make:	day2.cpp
-		g++ -o app day2.cpp && ./app
+		g++ -o app day2.cpp
