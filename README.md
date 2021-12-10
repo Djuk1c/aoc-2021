@@ -1,7 +1,7 @@
 # [Advent of Code 2021](https://adventofcode.com/2021)
 
-![](https://img.shields.io/badge/day%20📅-9-blue)
-![](https://img.shields.io/badge/stars%20⭐-16-yellow)
+![](https://img.shields.io/badge/day%20📅-10-blue)
+![](https://img.shields.io/badge/stars%20⭐-18-yellow)
 ### PROGRESS
 
 | Day | Name | Solution | Stars Earned |
@@ -15,7 +15,7 @@
 | 07 | [The Treachery of Whales](https://adventofcode.com/2021/day/7) | [07](07) | ★★ |
 | 08 | [Seven Segment Search](https://adventofcode.com/2021/day/8) | [08](08) | ★★ |
 | 09 | [Smoke Basin](https://adventofcode.com/2021/day/9) | [09](09) | ★★ |
-| 10 |  |  | ☆☆ |
+| 10 | [Syntax Scoring](https://adventofcode.com/2021/day/10) | [10](10) | ★★ |
 | 11 |  |  | ☆☆ |
 | 12 |  |  | ☆☆ |
 | 13 |  |  | ☆☆ |
