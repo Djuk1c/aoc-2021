@@ -96,7 +96,7 @@ int main()
 
 	sort(basinSizes.begin(), basinSizes.end(), greater<int>());
 	p2ans = basinSizes[0] * basinSizes[1] * basinSizes[2];
-	cout << "Part 1 answer: " << p2ans << endl;
+	cout << "Part 2 answer: " << p2ans << endl;
 
 	return 0;
 }
