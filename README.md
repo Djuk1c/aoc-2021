@@ -1,7 +1,7 @@
 # [Advent of Code 2021](https://adventofcode.com/2021)
 
-![](https://img.shields.io/badge/day%20📅-10-blue)
-![](https://img.shields.io/badge/stars%20⭐-18-yellow)
+![](https://img.shields.io/badge/day%20📅-11-blue)
+![](https://img.shields.io/badge/stars%20⭐-22-yellow)
 ### PROGRESS
 
 | Day | Name | Solution | Stars Earned |
@@ -10,13 +10,13 @@
 | 02 | [Deep Dive](https://adventofcode.com/2021/day/2) | [02](02) | ★★ |
 | 03 | [Binary Diagnostic](https://adventofcode.com/2021/day/3) | [03](03) | ★★ |
 | 04 | [Giant Squid](https://adventofcode.com/2021/day/4) | [04](04) | ★★ |
-| 05 | [Hydrothermal Venture](https://adventofcode.com/2021/day/5) | [/](/) | ☆☆ |
+| 05 | [Hydrothermal Venture](https://adventofcode.com/2021/day/5) | [05](05) | ★★ |
 | 06 | [Lanternfish](https://adventofcode.com/2021/day/6) | [06](06) | ★★ |
 | 07 | [The Treachery of Whales](https://adventofcode.com/2021/day/7) | [07](07) | ★★ |
 | 08 | [Seven Segment Search](https://adventofcode.com/2021/day/8) | [08](08) | ★★ |
 | 09 | [Smoke Basin](https://adventofcode.com/2021/day/9) | [09](09) | ★★ |
 | 10 | [Syntax Scoring](https://adventofcode.com/2021/day/10) | [10](10) | ★★ |
-| 11 |  |  | ☆☆ |
+| 11 | [Dumbo Octopus](https://adventofcode.com/2021/day/11) | [11](11) | ★★ |
 | 12 |  |  | ☆☆ |
 | 13 |  |  | ☆☆ |
 | 14 |  |  | ☆☆ |
